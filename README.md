@@ -3,6 +3,7 @@
 **Author:** Wenhan Tang (UIN: 678054985)  
 **Dataset:** ERA5 post-processed daily statistics on single levels (Copernicus Climate Data Store, DOI: [10.24381/cds.4991cf48](https://doi.org/10.24381/cds.4991cf48))
 
+The main code for this homework is in `HW02.ipynb`.
 ---
 ## Tasks
 - Import and manage ERA5 daily precipitation datasets.
